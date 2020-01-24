@@ -2,4 +2,4 @@
 
 ## React Complete
 
-    This project covers Assignment #1 from the _React – The Complete Guide_.
+    This project covers Assignment #1 from the React – The Complete Guide on Udemy.
